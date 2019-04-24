@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Apr 22 16:16:12 2019
+Created on Wed Apr 24 16:50:12 2019
 
-@author: Pavel
+@author: lachtyyy
 """
 
 import tkinter as tk
